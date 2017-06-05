@@ -1,7 +1,8 @@
 +++
-date = "2017-06-05T07:24:12Z"
+date = "2017-06-05T07:30:00Z"
 title = "firstpost"
-draft = true
+draft = false
 
 +++
 
+Check firstpost
